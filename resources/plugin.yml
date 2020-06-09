@@ -1,0 +1,7 @@
+name: SimpleStaffChat
+main: cc.tommyw.simplestaffchat.SimpleSC
+version: 1.2
+commands:
+  sc:
+    description: SimpleStaffChat - Main Command
+    usage: /sc <message>
